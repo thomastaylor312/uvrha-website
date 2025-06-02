@@ -11,13 +11,13 @@ description: "Our valued sponsors and partners"
 - **Class of your Choice Sponsor $250** - Sponsor the Class of your choice Ranch Riding. Ranch Reining, Ranch Pleasure, Ranch Boxing, Ranch Trail) Includes Logo and Social Media and Website as well as recognition throughout the show.
 - **Youth Sportsmanship (Any Amount)** - Funds will go towards a special "Youth Sportsman of the Year" Award. Sponsor will be announced at the shows and Listed on our social media and Website Pages.
 - **Prize Sponsor (Any Amount)** - Name to be read at the shows and business or personal name listed on the front page of our website and our social media pages.
-- (Banners can be purchased for an additional $75.00) if you package does not include one.
+- (Banners can be purchased for an additional $75.00) if your package does not include one.
 
 ### Sponsor Form
 
-**File Size:** 578 kb  
-**File Type:** pdf  
-[Download Sponsor Form](/sponsors/files/sponsor_form.pdf)
+**File Size:** 578 kb
+**File Type:** pdf
+[Download Sponsor Form](files/sponsor_form.pdf)
 
 <!-- TODO: Replace this with a contact form for sponsorship inquiries -->
 
@@ -25,54 +25,54 @@ description: "Our valued sponsors and partners"
 
 **We would like to thank Our current Banner Sponsors:**
 
-SMB Horse Sales  
+SMB Horse Sales
 https://www.smbhorsesales.com/
 
-L Bar Custom Leather  
+L Bar Custom Leather
 https://www.facebook.com/profile.php?id=100060474294307
 
-Elite Rehab Conditioning  
+Elite Rehab Conditioning
 https://www.facebook.com/people/Elite-Rehab-Conditioning/100083106531740/
 
-Maple Mountain Insurance Services LLC  
+Maple Mountain Insurance Services LLC
 www.maplemountaininsurance.com
 
-Frontier Trailer Sales  
+Frontier Trailer Sales
 https://ropingsupply.com/
 
-Hooley Performance Horses  
+Hooley Performance Horses
 https://www.facebook.com/Hooleys-Performance-Horse-Training-599760383416887/
 
-Davis Performance Horses  
+Davis Performance Horses
 https://www.facebook.com/maegsperformancehorses/
 
-J Bar Electric  
+J Bar Electric
 [email protected]
 
-Reams Western Outfitters  
+Reams Western Outfitters
 https://m.facebook.com/pages/category/Clothing-Store/Reams-Western-Outfitters-1897406810535006/
 
-Wild Rose Ranch  
+Wild Rose Ranch
 https://www.facebook.com/wildroseranchhay
 
-Focus and Filters  
+Focus and Filters
 https://www.focusandfilters.com/
 
 **Current Prize Sponsors**
 
-100 X Equine  
+100 X Equine
 https://www.100Xequine.com
 
-Redmond Equine  
+Redmond Equine
 https://redmondequine.com/
 
-Lameaway of Utah  
+Lameaway of Utah
 https://www.facebook.com/lameawayofutah/
 
-Claire DeSaussure Horsemanship  
+Claire DeSaussure Horsemanship
 https://www.facebook.com/profile.php?id=100068389419438
 
 **Our Discount Code Sponsor family is growing!**
 
-Knotty Horse Products  
+Knotty Horse Products
 www.knottyhorseproducts.com

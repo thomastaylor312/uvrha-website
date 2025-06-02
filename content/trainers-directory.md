@@ -3,8 +3,6 @@ title: "Trainers Directory"
 description: "Directory of certified trainers"
 ---
 
-## Trainers Directory
-
 ## If you are in the market for a good trainer, check out the list below! Trainers listed on this page are subject to board approval. Prior to being added, trainers must be an active member of UVRHA, have shown in at least one show, and pay $100 sponsorship.
 
 ### Sammy Barbour
@@ -23,7 +21,7 @@ description: "Directory of certified trainers"
 ---
 
 ### Bryan Hooley
-![Bryan Hooley](/images/sponsors/hooley-performance.jpg)
+![Bryan Hooley](images/sponsors/hooley-performance.jpg)
 
 **Head Trainer:** Bryan Hooley
 
@@ -38,7 +36,7 @@ description: "Directory of certified trainers"
 ---
 
 ### MM Show Horses
-![MM Show Horses](/images/sponsors/mm-show-horse.jpg)
+![MM Show Horses](images/sponsors/mm-show-horse.jpg)
 
 **Head Trainer:** Sandi Morgan, Paige Morgan and Rylee Morgan
 
