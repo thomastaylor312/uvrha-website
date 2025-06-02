@@ -1,9 +1,8 @@
 ---
 title: "Utah Versatility Ranch Horse Association"
-image: '/images/hero.jpg'
 ---
 
-## Utah Versatility Ranch Horse Association
+# Utah Versatility Ranch Horse Association
 
 Entries for the first show are due today to avoid the late fee and ensure you have a fresh cow to work! If you miss entering today, don't worry! We will take your entries until 8:00am day of show!
 
