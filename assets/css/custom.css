@@ -1,9 +1,0 @@
-section.prose {
-    max-width: 100% !important;
-}
-
-/* TODO: This collapses the footer */
-div:has(> #main-content) {
-    /* max-width: 100% !important; */
-    /* align-items: center !important; */
-}

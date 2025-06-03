@@ -7,15 +7,15 @@ description: "Information on class patterns"
 
 ### RANCH REINING PATTERN
 
-![Ranch Reining Pattern](/patterns/images/ranch-reining-pattner.jpg)
+![Ranch Reining Pattern](/patterns//images/ranch-reining-pattner.jpg)
 
 ### RANCH RIDING PATTERN
 
-![Ranch Riding Pattern](/patterns/images/ranch-riding-pattern.jpg)
+![Ranch Riding Pattern](/patterns//images/ranch-riding-pattern.jpg)
 
 ### RANCH TRAIL PATTERN
 
-![Ranch Trail Pattern](/patterns/images/ranch-trail-pattern.jpg)
+![Ranch Trail Pattern](/patterns//images/ranch-trail-pattern.jpg)
 
 ### RANCH RAIL WORK
 

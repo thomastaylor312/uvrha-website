@@ -1,9 +1,7 @@
 ---
 title: "Green Rancher & Novice Youth"
-description: "Information for Green Rancher and Novice Youth participants"
+description: "Information and standings for Green Rancher and Novice Youth participants"
 ---
-
-## Green Rancher & Novice Youth Standings
 
 ## Green Rancher Rules
 
@@ -29,10 +27,10 @@ Total Number of Points to Graduate the Green Rancher Program is: *150 total poin
 
 <!-- TODO: Embed document viewer for Green Rancher standings -->
 
-[Download Green Rancher Standings PDF](files/2024-10-07_green_rancher.pdf)
+[Download Green Rancher Standings PDF](/files/2024-10-07_green_rancher.pdf)
 
 ## 2024 Novice Youth Standings
 
 <!-- TODO: Embed document viewer for Novice Youth standings -->
 
-[Download Novice Youth Standings PDF](files/2024-10-07_novice_youth.pdf)
+[Download Novice Youth Standings PDF](/files/2024-10-07_novice_youth.pdf)

@@ -15,9 +15,7 @@ description: "Our valued sponsors and partners"
 
 ### Sponsor Form
 
-**File Size:** 578 kb
-**File Type:** pdf
-[Download Sponsor Form](files/sponsor_form.pdf)
+[Download Sponsor Form](/files/sponsor_form.pdf)
 
 <!-- TODO: Replace this with a contact form for sponsorship inquiries -->
 
@@ -25,54 +23,52 @@ description: "Our valued sponsors and partners"
 
 **We would like to thank Our current Banner Sponsors:**
 
-SMB Horse Sales
+SMB Horse Sales<br />
 https://www.smbhorsesales.com/
 
-L Bar Custom Leather
+L Bar Custom Leather<br />
 https://www.facebook.com/profile.php?id=100060474294307
 
-Elite Rehab Conditioning
+Elite Rehab Conditioning<br />
 https://www.facebook.com/people/Elite-Rehab-Conditioning/100083106531740/
 
-Maple Mountain Insurance Services LLC
+Maple Mountain Insurance Services LLC<br />
 www.maplemountaininsurance.com
 
-Frontier Trailer Sales
+Frontier Trailer Sales<br />
 https://ropingsupply.com/
 
-Hooley Performance Horses
+Hooley Performance Horses<br />
 https://www.facebook.com/Hooleys-Performance-Horse-Training-599760383416887/
 
-Davis Performance Horses
+Davis Performance Horses<br />
 https://www.facebook.com/maegsperformancehorses/
 
-J Bar Electric
-[email protected]
+J Bar Electric<br />
+[JBarut78@aol.com](mailto:JBarut78@aol.com)
 
-Reams Western Outfitters
+Reams Western Outfitters<br />
 https://m.facebook.com/pages/category/Clothing-Store/Reams-Western-Outfitters-1897406810535006/
 
-Wild Rose Ranch
+Wild Rose Ranch<br />
 https://www.facebook.com/wildroseranchhay
 
-Focus and Filters
-https://www.focusandfilters.com/
 
-**Current Prize Sponsors**
+## Current Prize Sponsors
 
-100 X Equine
+100 X Equine<br />
 https://www.100Xequine.com
 
-Redmond Equine
+Redmond Equine<br />
 https://redmondequine.com/
 
-Lameaway of Utah
+Lameaway of Utah<br />
 https://www.facebook.com/lameawayofutah/
 
-Claire DeSaussure Horsemanship
+Claire DeSaussure Horsemanship<br />
 https://www.facebook.com/profile.php?id=100068389419438
 
 **Our Discount Code Sponsor family is growing!**
 
-Knotty Horse Products
+Knotty Horse Products<br />
 www.knottyhorseproducts.com
