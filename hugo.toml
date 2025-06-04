@@ -1,3 +1,4 @@
-baseURL = 'https://www.utahversatility.com/'
-languageCode = 'Utah Versatility Ranch Horse Association'
-title = ''
+# baseURL = 'https://www.utahversatility.com/'
+baseURL = "https://uvrha.oftaylor.com/"
+languageCode = 'en'
+title = 'Utah Versatility Ranch Horse Association'
