@@ -25,12 +25,12 @@ Total Number of Points to Graduate the Green Rancher Program is: *150 total poin
 
 ## 2024 Green Rancher Standings
 
-<!-- TODO: Embed document viewer for Green Rancher standings -->
-
-[Download Green Rancher Standings PDF](/files/2024-10-07_green_rancher.pdf)
+<object data="/files/2024-10-07_green_rancher.pdf" type="application/pdf" style="width: 100%; height: 500px;">
+  <a href="/files/2024-10-07_green_rancher.pdf">Download Green Rancher Standings PDF</a>
+</object>
 
 ## 2024 Novice Youth Standings
 
-<!-- TODO: Embed document viewer for Novice Youth standings -->
-
-[Download Novice Youth Standings PDF](/files/2024-10-07_novice_youth.pdf)
+<object data="/files/2024-10-07_novice_youth.pdf" type="application/pdf" style="width: 100%; height: 500px;">
+  <a href="/files/2024-10-07_novice_youth.pdf">Download Novice Youth Standings PDF</a>
+</object>

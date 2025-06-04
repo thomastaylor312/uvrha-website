@@ -34,17 +34,46 @@ UVRHA Membership Form
 
 ## ***2025 Show and Clinic Dates are here! Mark your calendars!***
 
-***Les Vogt Clinic* March 14th-16th 2025 Black Hawk Arena 800 S Equestrian Ln Salina, UT 84564**
+### *Les Vogt Clinic*
 
-***Memorial Day Show #1* May 24th-25th 2025 Contoy Arena 995 W 1000 S Mt Pleasant UT 84647**
+**March 14th-16th, 2025**<br />
+Black Hawk Arena<br />
+800 S Equestrian Ln<br />
+Salina, UT 84564
 
-***Summer Sizzler Show #2* June 28th-29th 2025 Black Hawk Arena 800 S. Equestrian Salina, UT 84564**
+### *Memorial Day Show #1*
 
-***August Heat Show #3* August 9th-10th 2025 Blackhawk Arena 800 S. Equestrian Salina, UT 84564**
+**May 24th-25th, 2025**<br />
+Contoy Arena 995 W 1000 S<br />
+Mt Pleasant UT 84647
 
-***Farewell Summer Show #4* September 20th-21st 2025 Contoy Arena 995 W 1000 S Mt Pleasant UT 84647**
+### *Summer Sizzler Show #2*
 
-***Fall Bash Show #5* Oct 4th-5th 2025 Deseret Peak Complex 2930 UT-112 Granstville, UT 84029**
+**June 28th-29th, 2025**<br />
+Black Hawk Arena<br />
+800 S. Equestrian Ln<br />
+Salina, UT 84564
+
+### *August Heat Show #3*
+
+**August 9th-10th, 2025**<br />
+Blackhawk Arena<br />
+800 S. Equestrian Ln<br />
+Salina, UT 84564
+
+## *Farewell Summer Show #4*
+
+**September 20th-21st, 2025**<br />
+Contoy Arena<br />
+995 W 1000 S<br />
+Mt Pleasant UT 84647
+
+## *Fall Bash Show #5*
+
+**Oct 4th-5th, 2025**<br />
+Deseret Peak Complex<br />
+2930 UT-112<br />
+Granstville, UT 84029
 
 ## We are very pleased to have an amazing line up of sponsors for 2025. We have several levels of sponsorship and would love to have you be a part of our FAMILY!
 
