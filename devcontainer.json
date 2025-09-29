@@ -1,0 +1,42 @@
+{
+    "name": "Hugo",
+    "image": "mcr.microsoft.com/devcontainers/base:trixie",
+    "features": {
+        "ghcr.io/devcontainers/features/hugo:1": {
+            "version": "0.150.0",
+            "extended": true
+        }
+    },
+    "forwardPorts": [
+        1313
+    ],
+    "portsAttributes": {
+        "1313": {
+            "label": "Hugo Preview",
+            "onAutoForward": "openBrowser"
+        }
+    },
+    "postCreateCommand": "hugo mod tidy",
+    "postStartCommand": ".devcontainer/scripts/post-start.sh",
+    "customizations": {
+        "codespaces": {
+            "openFiles": [
+                "README.md"
+            ]
+        },
+        "vscode": {
+            "settings": {
+                "files.autoSave": "afterDelay",
+                "editor.wordWrap": "on",
+                "editor.minimap.enabled": false,
+                "markdown.preview.breaks": true,
+                "git.enableSmartCommit": true,
+                "git.confirmSync": false
+            },
+            "extensions": [
+                "yzhang.markdown-all-in-one",
+                "streetsidesoftware.code-spell-checker"
+            ]
+        }
+    }
+}
