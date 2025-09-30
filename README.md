@@ -45,6 +45,7 @@ For a handy reference, see the [Markdown Cheat Sheet](https://www.markdownguide.
 - Keep new content inside the `content/` folder. Organize pages in subfolders to mirror the site structure.
 - Front matter (the section at the top of each file between `---` or `+++`) controls page settings such as title, date, and menu placement.
 - You can insert images by placing files in the `static/` folder and referencing them with `/images/your-file.jpg`.
+- Menu items can be added or removed by editing `config/_default/menus.toml`. Ask for help if you are having trouble
 
 Learn more from the official Hugo documentation: [Content Management in Hugo](https://gohugo.io/content-management/).
 
