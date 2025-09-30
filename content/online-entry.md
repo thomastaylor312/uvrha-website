@@ -5,9 +5,9 @@ description: "Submit your entries online"
 
 ***Memorial Day Kick Off***
 
-Show #1<br />
-May 24-25th 2025<br />
-Contoy Arena<br />
+Show #1  
+May 24-25th 2025  
+Contoy Arena  
 Mt Pleasant UT
 
 **We are now using JOT Forms for our online Entries.**

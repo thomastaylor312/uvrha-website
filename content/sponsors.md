@@ -23,52 +23,52 @@ description: "Our valued sponsors and partners"
 
 **We would like to thank Our current Banner Sponsors:**
 
-SMB Horse Sales<br />
+SMB Horse Sales  
 https://www.smbhorsesales.com/
 
-L Bar Custom Leather<br />
+L Bar Custom Leather  
 https://www.facebook.com/profile.php?id=100060474294307
 
-Elite Rehab Conditioning<br />
+Elite Rehab Conditioning  
 https://www.facebook.com/people/Elite-Rehab-Conditioning/100083106531740/
 
-Maple Mountain Insurance Services LLC<br />
+Maple Mountain Insurance Services LLC  
 www.maplemountaininsurance.com
 
-Frontier Trailer Sales<br />
+Frontier Trailer Sales  
 https://ropingsupply.com/
 
-Hooley Performance Horses<br />
+Hooley Performance Horses  
 https://www.facebook.com/Hooleys-Performance-Horse-Training-599760383416887/
 
-Davis Performance Horses<br />
+Davis Performance Horses  
 https://www.facebook.com/maegsperformancehorses/
 
-J Bar Electric<br />
+J Bar Electric  
 [JBarut78@aol.com](mailto:JBarut78@aol.com)
 
-Reams Western Outfitters<br />
+Reams Western Outfitters  
 https://m.facebook.com/pages/category/Clothing-Store/Reams-Western-Outfitters-1897406810535006/
 
-Wild Rose Ranch<br />
+Wild Rose Ranch  
 https://www.facebook.com/wildroseranchhay
 
 
 ## Current Prize Sponsors
 
-100 X Equine<br />
+100 X Equine  
 https://www.100Xequine.com
 
-Redmond Equine<br />
+Redmond Equine  
 https://redmondequine.com/
 
-Lameaway of Utah<br />
+Lameaway of Utah  
 https://www.facebook.com/lameawayofutah/
 
-Claire DeSaussure Horsemanship<br />
+Claire DeSaussure Horsemanship  
 https://www.facebook.com/profile.php?id=100068389419438
 
 **Our Discount Code Sponsor family is growing!**
 
-Knotty Horse Products<br />
+Knotty Horse Products  
 www.knottyhorseproducts.com

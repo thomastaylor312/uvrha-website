@@ -8,10 +8,10 @@ Entries for the first show are due today to avoid the late fee and ensure you ha
 
 ## Memorial Day Show #1
 
-May 24-25th<br />
-Start Time is 8:30 am each day<br />
-Contoy Arena<br />
-995 W 1000 S<br />
+May 24-25th  
+Start Time is 8:30 am each day  
+Contoy Arena  
+995 W 1000 S  
 Mt Pleasant, UT 84647
 
 Please use the show entry form button below to enter and don't forget to renew your membership! It pays to be an member of the UVRHA!
@@ -36,43 +36,43 @@ UVRHA Membership Form
 
 ### *Les Vogt Clinic*
 
-**March 14th-16th, 2025**<br />
-Black Hawk Arena<br />
-800 S Equestrian Ln<br />
+**March 14th-16th, 2025**  
+Black Hawk Arena  
+800 S Equestrian Ln  
 Salina, UT 84564
 
 ### *Memorial Day Show #1*
 
-**May 24th-25th, 2025**<br />
-Contoy Arena 995 W 1000 S<br />
+**May 24th-25th, 2025**  
+Contoy Arena 995 W 1000 S  
 Mt Pleasant UT 84647
 
 ### *Summer Sizzler Show #2*
 
-**June 28th-29th, 2025**<br />
-Black Hawk Arena<br />
-800 S. Equestrian Ln<br />
+**June 28th-29th, 2025**  
+Black Hawk Arena  
+800 S. Equestrian Ln  
 Salina, UT 84564
 
 ### *August Heat Show #3*
 
-**August 9th-10th, 2025**<br />
-Blackhawk Arena<br />
-800 S. Equestrian Ln<br />
+**August 9th-10th, 2025**  
+Blackhawk Arena  
+800 S. Equestrian Ln  
 Salina, UT 84564
 
 ## *Farewell Summer Show #4*
 
-**September 20th-21st, 2025**<br />
-Contoy Arena<br />
-995 W 1000 S<br />
+**September 20th-21st, 2025**  
+Contoy Arena  
+995 W 1000 S  
 Mt Pleasant UT 84647
 
 ## *Fall Bash Show #5*
 
-**Oct 4th-5th, 2025**<br />
-Deseret Peak Complex<br />
-2930 UT-112<br />
+**Oct 4th-5th, 2025**  
+Deseret Peak Complex  
+2930 UT-112  
 Granstville, UT 84029
 
 ## We are very pleased to have an amazing line up of sponsors for 2025. We have several levels of sponsorship and would love to have you be a part of our FAMILY!

@@ -8,10 +8,10 @@ description: "Directory of certified trainers"
 ### Sammy Barbour
 
 {{< figure src="/images/sammy-barbour.jpg" alt="Sammy Barbour" class="float-left mr-5" nozoom=true >}}
-**Head Trainer:** Sammy Barbour<br />
-**Phone:** 801-209-7037<br />
-**Email:** [sammybarbour@gmail.com](mailto:sammybarbour@gmail.com)<br />
-**Location:** Bluffdale, UT<br />
+**Head Trainer:** Sammy Barbour  
+**Phone:** 801-209-7037  
+**Email:** [sammybarbour@gmail.com](mailto:sammybarbour@gmail.com)  
+**Location:** Bluffdale, UT  
 **Specializing in** the all around performance horses. Offering lessons, training and sales
 
 ---
@@ -19,10 +19,10 @@ description: "Directory of certified trainers"
 ### Bryan Hooley
 
 {{< figure src="/images/hooley-performance.jpg" alt="Bryan Hooley" class="float-left mr-5" nozoom=true >}}
-**Head Trainer:** Bryan Hooley<br />
-**Phone:** 801-372-0204<br />
-**Email:** [hooleyperformancehorses@gmail.com](mailto:hooleyperformancehorses@gmail.com)<br />
-**Location:** Eagle Mountain, UT<br />
+**Head Trainer:** Bryan Hooley  
+**Phone:** 801-372-0204  
+**Email:** [hooleyperformancehorses@gmail.com](mailto:hooleyperformancehorses@gmail.com)  
+**Location:** Eagle Mountain, UT  
 **Specializing in** reining, reining working cow horses and versatility horse
 
 ---
@@ -30,9 +30,9 @@ description: "Directory of certified trainers"
 ### MM Show Horses
 
 {{< figure src="/images/mm-show-horse.jpg" alt="MM Show Horses" class="float-left mr-5" nozoom=true >}}
-**Head Trainer:** Sandi Morgan, Paige Morgan and Rylee Morgan<br />
-**Phone Number:** 801-369-3619<br />
-**Email:** [mmshowhorses@gmail.com](mailto:mmshowhorses@gmail.com)<br />
+**Head Trainer:** Sandi Morgan, Paige Morgan and Rylee Morgan  
+**Phone Number:** 801-369-3619  
+**Email:** [mmshowhorses@gmail.com](mailto:mmshowhorses@gmail.com)  
 **Specializing in** all around performance horse training and sales.
 
 ---
@@ -40,10 +40,10 @@ description: "Directory of certified trainers"
 ### Shamus Haws
 
 {{< figure src="/images/shamus-haws.jpg" alt="Shamus Haws" class="float-left mr-5" nozoom=true >}}\
-**Head Trainer:** Shamus Haws<br />
-**Phone:** 801-541-9229<br />
-**Email:** [shamushaws@gmail.com](mailto:shamushaws@gmail.com)<br />
-**Location:** Erda, UT<br />
+**Head Trainer:** Shamus Haws  
+**Phone:** 801-541-9229  
+**Email:** [shamushaws@gmail.com](mailto:shamushaws@gmail.com)  
+**Location:** Erda, UT  
 **Specializing in** the Versatility Ranch Horses. Offering clinics, private lessons, and training.
 
 ---
@@ -51,10 +51,10 @@ description: "Directory of certified trainers"
 ### McCoy Christiansen
 
 {{< figure src="/images/mccoy-christiansen.jpg" alt="McCoy Christiansen" class="float-left mr-5" nozoom=true >}}
-**Head Trainer:** McCoy Christiansen<br />
-**Phone Number:** 801-516-8135<br />
-**Email:** [christiansenperformancehorses@gmail.com](mailto:christiansenperformancehorses@gmail.com)<br />
-**Website:** www.christiansenperformancehorses.com<br />
+**Head Trainer:** McCoy Christiansen  
+**Phone Number:** 801-516-8135  
+**Email:** [christiansenperformancehorses@gmail.com](mailto:christiansenperformancehorses@gmail.com)  
+**Website:** www.christiansenperformancehorses.com  
 **Specializing in:** Reined Cow Horse training and showing
 
 ---
@@ -62,9 +62,9 @@ description: "Directory of certified trainers"
 ### Dana Szegedy
 
 {{< figure src="/images/dana-szegedy.webp" alt="Dana Szegedy" class="float-left mr-5" nozoom=true >}}
-**Head Trainer:** Dana Szegedy<br />
-**Phone:** 406-380-0516<br />
-**Email:** [dana@communequest.com](mailto:dana@communequest.com)<br />
-**Website:** www.communequest.com<br />
-**Location:** Oakley UT<br />
+**Head Trainer:** Dana Szegedy  
+**Phone:** 406-380-0516  
+**Email:** [dana@communequest.com](mailto:dana@communequest.com)  
+**Website:** www.communequest.com  
+**Location:** Oakley UT  
 **Specializing in** a balanced horse that has self carriage with soft feel and building a braver horse.
