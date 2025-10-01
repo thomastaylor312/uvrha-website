@@ -17,7 +17,7 @@
         }
     },
     "postCreateCommand": "hugo mod tidy",
-    "postStartCommand": ".devcontainer/scripts/post-start.sh",
+    "postAttachCommand": ".devcontainer/scripts/post-start.sh",
     "customizations": {
         "codespaces": {
             "openFiles": [
