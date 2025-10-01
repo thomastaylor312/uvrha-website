@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+echo "I'm testing" > hello.txt
+
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 WORKSPACE_DIR="${CODESPACE_VSCODE_FOLDER:-$(pwd)}"
 cd "${WORKSPACE_DIR}"
