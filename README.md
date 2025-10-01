@@ -5,10 +5,12 @@ This repository contains the source content and Hugo project for the Utah Versat
 ## Getting Started in Codespaces
 
 1. Open the repository in GitHub Codespaces.
-2. Wait for the Codespace to finish starting—`hugo server` launches automatically.
+2. Start the preview server by running the **Start Server** task:
+   - Press **⌥⌘H** (Mac) or **Ctrl+Alt+H** (Windows/Linux), or
+   - Open **Terminal → Run Task…** and choose **Start Server**.
 3. When prompted (or by opening the forwarded port labeled "Hugo Preview"), view the live site preview in your browser.
 4. Edit content files inside the `content/` directory. Most pages are Markdown (`.md`) files.
-5. Save changes and watch the preview reload automatically. Changes are not public until merged/deployed.
+5. Save changes and watch the preview reload automatically. If the preview stops responding, rerun the **Start Server** task. Changes are not public until merged/deployed.
 
 ## Saving and Committing Changes
 
@@ -51,5 +53,6 @@ Learn more from the official Hugo documentation: [Content Management in Hugo](ht
 
 ## Need Help?
 
+- Rerun the **Start Server** task if the preview pane cannot connect.
 - Check the `.devcontainer/logs/hugo-server.log` file if the preview stops working (`tail -f .devcontainer/logs/hugo-server.log`).
 - Reach out to a teammate if you run into issues or need guidance on publishing changes.

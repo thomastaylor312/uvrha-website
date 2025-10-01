@@ -14,6 +14,19 @@
                 "panel": "dedicated"
             },
             "problemMatcher": []
+        },
+        {
+            "label": "Start Server",
+            "type": "shell",
+            "command": "${workspaceFolder}/.devcontainer/scripts/post-start.sh",
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            },
+            "runOptions": {
+                "reevaluateOnRerun": false
+            },
+            "problemMatcher": []
         }
     ]
 }

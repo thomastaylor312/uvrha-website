@@ -1,0 +1,8 @@
+[
+    {
+        "key": "ctrl+alt+h",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Start Server",
+        "mac": "cmd+alt+h"
+    }
+]
