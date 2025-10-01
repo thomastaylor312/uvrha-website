@@ -31,7 +31,8 @@
                 "editor.minimap.enabled": false,
                 "markdown.preview.breaks": true,
                 "git.enableSmartCommit": true,
-                "git.confirmSync": false
+                "git.confirmSync": false,
+                "git.autofetch": "all"
             },
             "extensions": [
                 "yzhang.markdown-all-in-one",
