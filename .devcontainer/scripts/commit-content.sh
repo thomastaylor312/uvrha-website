@@ -16,3 +16,5 @@ fi
 MESSAGE="Content update: $(date -u '+%Y-%m-%d %H:%M UTC')"
 
 git commit -m "${MESSAGE}" && echo "Committed with message: ${MESSAGE}"
+
+git push origin master
